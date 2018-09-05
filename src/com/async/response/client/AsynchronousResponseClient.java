@@ -29,7 +29,7 @@ public static void main(String[] args) {
 	
 	System.out.println("Independent of Asyncronoustyu call1");
 	System.out.println("Independent of Asyncronous for release branch call2");
-	System.out.println("Independent of Asyncronous call3");
+	System.out.println("Independent of Asyncronous tag for releases call3");
 	System.out.println("Independent of Asyncronous call4");
 	System.out.println("Independent of Asyncronous call5");
 	System.out.println("Independent of Asyncronous call6");
